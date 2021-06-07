@@ -1,0 +1,9 @@
+
+server:
+  port: 8081
+  shutdown: graceful
+  servlet:
+    contextPath: /cni
+spring:
+  application:
+    name: cni
